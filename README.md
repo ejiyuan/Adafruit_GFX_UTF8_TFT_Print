@@ -40,10 +40,10 @@ Adafruit_GFX 中文显示 详细教程 中文字体库程序包
 
 
 1.  [https://github.com/kaldoran/Adafruit-Weather-Icon](https://github.com/kaldoran/Adafruit-Weather-Icon)
-2[https://github.com/ZinggJM/GFX_FontExtension_for_Adafruit_GFX](https://github.com/ZinggJM/GFX_FontExtension_for_Adafruit_GFX)
-3[Adafruit_GFX显示中文详细教程](https://blog.csdn.net/weixin_44807826/article/details/131404098)
-4[Adafruit-GFX显示中文详细教程-字体库程序包](https://gitcode.com/open-source-toolkit/fed79)
-5[https://github.com/will127534/AdafruitGFX-ChineseFont-Addon](https://github.com/will127534/AdafruitGFX-ChineseFont-Addon)
+2.  [https://github.com/ZinggJM/GFX_FontExtension_for_Adafruit_GFX](https://github.com/ZinggJM/GFX_FontExtension_for_Adafruit_GFX)
+3.  [Adafruit_GFX显示中文详细教程](https://blog.csdn.net/weixin_44807826/article/details/131404098)
+4.  [Adafruit-GFX显示中文详细教程-字体库程序包](https://gitcode.com/open-source-toolkit/fed79)
+5.  [https://github.com/will127534/AdafruitGFX-ChineseFont-Addon](https://github.com/will127534/AdafruitGFX-ChineseFont-Addon)
 
 
 #### 特技
