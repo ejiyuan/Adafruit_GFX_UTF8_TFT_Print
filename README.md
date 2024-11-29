@@ -37,7 +37,7 @@ Adafruit_GFX 中文显示 详细教程 中文字体库程序包
 
 #### 特技
 
-1.  对于少量汉字应用，可使用 U8g2_for_Adafruit_GFX 中包含大量字体，u8g2_font_wqy14_t_gb2312 字体库包含 全部中文字体，对于ESP8266小内容MUC出现内存不足错误：
+1.  对于大量汉字应用，可使用 U8g2_for_Adafruit_GFX 中包含大量字体，u8g2_font_wqy14_t_gb2312 字体库包含 全部中文字体，对于ESP8266小内容MUC出现内存不足错误：
     ```
     section \`.bss' is not within region \`dram0_0_seg'
     ```
