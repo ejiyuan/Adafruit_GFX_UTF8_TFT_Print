@@ -16,23 +16,23 @@ Adafruit_GFX 显示中文详细教程
 
 #### 使用说明            
 1.  项目中引用生成的字体文件
-    <code>
-      #include "./font/ch2.h"  // 生成的字体文件
-      #include "./UTF8Print.h" // 中文打印主程序代码
-    </code>  
+    ```
+        #include "./font/ch2.h"  // 生成的字体文件
+        #include "./UTF8Print.h" // 中文打印主程序代码
+    ```
 2.  创建对象
-    <code>
+    ```
       UTF8Print utf8_print;
-    </code>
+    ```
 3.  调用打印中文
-    <code>
+    ```
       tft.setTextSize(1);  // Adafruit_GFX 的一些设置
       tft.setTextColor(ST77XX_WHITE);
       tft.setFont(&songti20pt8b);  // 设置字体为我们生成的字体 font
       size_t array_size = sizeof(songti20pt8bUnicode) / sizeof(songti20pt8bUnicode[0]); // 中文字体对应的Unicode序列
       utf8_print.begin(tft, songti20pt8bUnicode, array_size); // 准备一个 utf8_print 对象
       utf8_print.printString("我的中国心abc"); // 打印
-    </code>
+    ```
 
 
 #### 参与贡献
