@@ -6,7 +6,8 @@ Adafruit_GFX 中文显示 详细教程 中文字体库程序包
 
 #### 软件架构
 软件架构说明
-
+1.  fontconverter.exe 从以下位置获取[https://github.com/Bodmer/GFX_Font_Converter](https://github.com/Bodmer/GFX_Font_Converter)
+2.  GFXFontConverte.exe 是手搓的就是在 fontconverter.exe 基础上套壳
 
 #### 安装教程
 
@@ -37,13 +38,12 @@ Adafruit_GFX 中文显示 详细教程 中文字体库程序包
 
 #### 参与贡献
 
-1.  fontconverter.exe 从以下位置获取[https://github.com/Bodmer/GFX_Font_Converter](https://github.com/Bodmer/GFX_Font_Converter)
-2.  GFXFontConverte.exe 是手搓的就是在 fontconverter.exe 基础上套壳
-3.  [https://github.com/kaldoran/Adafruit-Weather-Icon](https://github.com/kaldoran/Adafruit-Weather-Icon)
-4.  [https://github.com/ZinggJM/GFX_FontExtension_for_Adafruit_GFX](https://github.com/ZinggJM/GFX_FontExtension_for_Adafruit_GFX)
-5.  [Adafruit_GFX显示中文详细教程](https://blog.csdn.net/weixin_44807826/article/details/131404098)
-5.  [Adafruit-GFX显示中文详细教程-字体库程序包](https://gitcode.com/open-source-toolkit/fed79)
-6.  [https://github.com/will127534/AdafruitGFX-ChineseFont-Addon](https://github.com/will127534/AdafruitGFX-ChineseFont-Addon)
+
+1.  [https://github.com/kaldoran/Adafruit-Weather-Icon](https://github.com/kaldoran/Adafruit-Weather-Icon)
+2[https://github.com/ZinggJM/GFX_FontExtension_for_Adafruit_GFX](https://github.com/ZinggJM/GFX_FontExtension_for_Adafruit_GFX)
+3[Adafruit_GFX显示中文详细教程](https://blog.csdn.net/weixin_44807826/article/details/131404098)
+4[Adafruit-GFX显示中文详细教程-字体库程序包](https://gitcode.com/open-source-toolkit/fed79)
+5[https://github.com/will127534/AdafruitGFX-ChineseFont-Addon](https://github.com/will127534/AdafruitGFX-ChineseFont-Addon)
 
 
 #### 特技
